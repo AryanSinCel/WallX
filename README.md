@@ -8,6 +8,7 @@
 	Downloading the selected image in photo library.
 	Adding and Deleting images in Favorite Collection.
 	Searching Functionality to get the desired images.
+ 	Getting Local Notification when new image is posted.
 
 ## Technology Used : 
 	Objective-C: The primary programming language used for this project.
